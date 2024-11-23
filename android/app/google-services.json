@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630030234282",
+    "project_id": "medico-43fb0",
+    "storage_bucket": "medico-43fb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630030234282:android:7dbeaf3e5a95ef5bb256d3",
+        "android_client_info": {
+          "package_name": "com.example.assigmedico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOaw8Gw1dwMRs2kWPAucCpNNevmWdDWo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
